@@ -1,0 +1,11 @@
+.techniques {
+  width: 80%;
+  margin: 100px auto 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* .techniques__content {
+  display: flex;
+  flex-direction: column;
+} */
