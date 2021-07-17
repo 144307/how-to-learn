@@ -1,0 +1,18 @@
+.logo {
+  /* position: absolute; */
+  width: 183px;
+  height: 32px;
+  z-index: 1;
+}
+
+/* .logo__place_header {
+  position: absolute;
+  width: 183px;
+  height: 32px;
+  top: 30px;
+  left: 64px;
+} */
+
+/* .logo__place_footer {
+  margin: 0;
+} */

@@ -1,0 +1,44 @@
+.cards {
+  width: 920px;
+  padding: 0;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* .cards__item {
+  width: 240px;
+  margin: 0 100px 0 0;
+}
+
+.cards__item_edge {
+  margin-right: 0;
+} */
+
+/* .cards__image {
+  width: 160px;
+  height: 160px;
+  margin: 60px 40px 43px;
+  border-radius: 50%;
+  background-color: grey;
+} */
+
+/* .cards__title {
+  margin: 0 0 16px;
+  text-align: center;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 1.15;
+} */
+
+/* .cards__description {
+  margin: 0;
+  text-align: center;
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 23px;
+} */
