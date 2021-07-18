@@ -1,6 +1,6 @@
 .two-columns__main-text {
   width: 80%;
-  max-width: 784px;
+  min-width: 784px;
   font-family: "Inter", "Arial", sans-serif;
   font-size: 24px;
   font-style: normal;
